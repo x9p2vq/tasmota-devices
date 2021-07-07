@@ -1,0 +1,2 @@
+source: https://templates.blakadder.com/sonoff_S31.html
+template: {"NAME":"Sonoff S31","GPIO":[17,145,0,146,0,0,0,0,21,56,0,0,0],"FLAG":0,"BASE":41}
